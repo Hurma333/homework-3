@@ -73,7 +73,7 @@ header span {
 	display: flex;
 	justify-content: space-between;
 	flex-direction: column;
-	gap: 70px;
+	gap: 60px;
 }
 
 select {
